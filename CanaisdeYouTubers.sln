@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanaisYT", "CanaisYT\CanaisYT.csproj", "{552332F0-E746-4ED7-8CA4-73914934BB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552332F0-E746-4ED7-8CA4-73914934BB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552332F0-E746-4ED7-8CA4-73914934BB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552332F0-E746-4ED7-8CA4-73914934BB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552332F0-E746-4ED7-8CA4-73914934BB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E0C76E-19AD-48F6-AF0B-DFBC481AAC1A}
+	EndGlobalSection
+EndGlobal
