@@ -1,4 +1,4 @@
 
 #### Menu Principal ###
 
-<img src="./PNG/README.png">
+<img src="../PNG/1.1.png">
